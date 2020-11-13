@@ -1,0 +1,166 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+    color: black;
+}
+nav{
+    box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.1);
+    background-color: transparent;
+    color: black;
+    width: 100%;
+}
+
+
+}
+.nav-link{
+    color: black;!important
+}
+  .carousel-inner img {
+    width: 100%;
+    height: 100%;
+
+  }
+.footer {
+     background-color: black;
+     padding-bottom: 35px;
+     background-size: 100% 100%;
+background-repeat: no-repeat;
+background-position: center center;
+    background-color: black;
+    width: 100%;
+}
+
+ .footer .Follow {
+    margin-bottom: 27px;
+}
+
+
+ .footer .Follow h3 {
+     color: #fff;
+     font-size: 25px;
+     line-height: 30px;
+     font-weight: 600;
+border-bottom: #fff solid 1px;
+    border-bottom-width: 1px;
+border-width: 1px;
+display: inline-block;
+padding-bottom: 2px;}
+ .coa {
+    color: #12dc12;
+}
+
+
+ .footer .Newsletter  {
+
+    padding: 13px 26px;
+        padding-top: 10px;
+        padding-right: 26px;
+        padding-bottom: 10px;
+        padding-left: 26px;
+    border: #fff solid 1px;
+    width: 77%;
+
+
+ }
+
+.footer .Subscribe {
+
+    padding: 10px 46px;
+margin-left: -3px;
+border: #0e0c0c solid 1px;
+background: #0e0c0c;
+color: #fff;
+
+}
+ .pdn-top-30 {
+    padding-top: 35px;
+}
+ ul.location_icon {
+     list-style: none;
+     margin: 0;
+     padding: 0;
+     width: 100%;
+     float: left;
+}
+ ul.location_icon li {
+     float: left;
+     height: 70px;
+     color: #fff;
+     display: flex;
+     flex-wrap: wrap;
+     align-items: center;
+     padding-right: 20px;
+}
+
+ul.location_icon li:last-child { padding-right: 0px; }
+
+ul.location_icon li a{
+ margin-bottom: 23px;}
+
+ ul.location_icon span {
+    font-size: 17px;
+     font-weight: 400;
+}
+
+
+/*--------------------------------------------------------------------- inner_page css ---------------------------------------------------------------------*/
+
+
+/** slider arrow **/
+.location_icon li a{
+
+    font-size: 20px;
+    color: wheat;
+}
+
+@media only screen and (max-width:600px){
+    .para{
+        text-align: center;
+        justify-content: center;
+        margin-left: 120px;
+        width: 100%;
+    }
+    #buy{
+
+        margin-left: 120px;
+
+    }
+    body{
+        overflow-x: hidden;
+       
+    }
+    nav{
+   
+    
+    color: black;
+    
+}
+
+    .footer{
+    width: 100%;
+        text-align: center;
+        background-color: black
+    }
+    .follow{
+        width: 100%;
+        background-color: black
+    }
+    #web-heading{
+margin: 0;
+        padding: 0;
+        text-align: center;
+        justify-content: center;
+}
+    #features-image{
+        width: 200px;
+        height: 200px;
+    }
+}
+a{
+    color: black;
+}
+#features a p {
+  font-weight: bolder;
+}
+
